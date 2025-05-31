@@ -1,7 +1,7 @@
-body{
+body {
 
   align-content: center;
-  background-color: white;
+  background-color: #464546;
   text-align: center;
   padding-bottom: 500px;
   animation-name: body;
@@ -15,8 +15,16 @@ body{
   background-color: blue;
   width: 100px;
   margin: auto;
+  border-radius: 10px;
 
 }
+
+.link {
+
+  color: whitesmoke;
+  text-decoration: none;
+}
+
 .title {
 
   font-size: 100;
@@ -37,6 +45,7 @@ body{
     background-color: white;
 
   }
+
   to {
 
     font-size: 100;
@@ -53,6 +62,7 @@ body{
     padding-top: 200;
 
   }
+
   to {
 
     padding-top: 0;
