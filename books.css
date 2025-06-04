@@ -13,3 +13,11 @@ body {
   border-radius: 6px;
   margin: auto;
 }
+
+.buttonContainer {
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}

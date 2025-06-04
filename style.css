@@ -13,9 +13,9 @@ body {
 .links {
 
   background-color: blue;
-  width: 100px;
+  width: 400px;
   margin: auto;
-  border-radius: 10px;
+  border-radius: 6px;
 
 }
 
@@ -23,6 +23,7 @@ body {
 
   color: whitesmoke;
   text-decoration: none;
+
 }
 
 .title {
